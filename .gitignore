@@ -1,0 +1,3 @@
+*.ini
+*.Rmd
+**/*.Rmd # Indispensable pour les sous-dossier
